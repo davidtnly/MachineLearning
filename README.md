@@ -1,20 +1,19 @@
-### Welcome to my Python repository
+### Welcome to my Machine Learning Repository
 
-This is a testing and learning ground as I take a turn at Python from R.
+This is a testing and learning ground as I take a turn at Python to practice machine learning and deep learning frameworks.
 
-### Various Folders
+### Various Sources
 
-* Machine Learning
-  + https://github.com/davidtnly/Python/tree/master/MachineLearning
-* Projects
-  + https://github.com/davidtnly/Python/tree/master/Projects
-* Automate The Boring Stuff with Python
-  + https://github.com/davidtnly/Python/tree/master/AutomateTheBoringStuff
-* Learn To Program The Fundamentals
-  + https://github.com/davidtnly/Python/tree/master/LearnToProgramTheFundamentals
-* Review
-  + https://github.com/davidtnly/Python/tree/master/Review
-
+* Kaggle - Titanic
+  + https://www.kaggle.com/c/titanic
+* Kaggle - House Prices: Advanced Regression Techniques
+  + https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+* Kaggle - Credit Card Fraud Detection
+  + https://www.kaggle.com/mlg-ulb/creditcardfraud
+* Kaggle - Zoo Animal Classification
+  + https://www.kaggle.com/uciml/zoo-animal-classification#zoo.csv
+* Kaggle - Breast Cancer Wisconsin
+  + https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 _____________________________________________________________________________________________
 
 ```
