@@ -16,6 +16,12 @@ This is a testing and learning ground as I take a turn at Python to practice mac
   + https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 _____________________________________________________________________________________________
 
+### WBCD Trial Scores
+
+![Image](https://github.com/davidtnly/MachineLearning/blob/master/Images/breast_cancer_model_scores.png)
+
+_____________________________________________________________________________________________
+
 ```
 import python
 import machinelearning
