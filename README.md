@@ -23,14 +23,13 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________
 
 ```
-import python
 import machinelearning
 import study
 
 knowledge = []
 
-if machinelearning.topic == 'new' | python.topic == 'new':
-    study.learn(topic)
+if machinelearning.topic('') == 'new':
+    study.learn('')
 else:
     knowledge.append()
 
