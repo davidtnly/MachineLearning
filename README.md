@@ -22,17 +22,18 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________
 
+
 ```
 import machinelearning
 import study
 
 knowledge = []
+topic = machinelearning.topic('')
 
-if machinelearning.topic('') == 'new':
-    study.learn('')
+if topic == 'new':
+    study.learn(topic)
 else:
-    knowledge.append()
-
+    knowledge.append(topic)
 ```
 
 ## Contact me!
